@@ -1,0 +1,10 @@
+It is here that will document exactly what  I am plannign on doing and what I have document
+
+Plans
+https://developer.here.com/blog/getting-started-with-geocoding-exif-image-metadata-in-python3
+
+
+
+Done
+
+
